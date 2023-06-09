@@ -1,3 +1,11 @@
+Analysis on BIGMART sales data with over 8000 rows and 12 columns containing        
+information about products purchased and their sales value split and also product 
+description using MYSQL.
+
+Tools: MYSQL, Dbeaver (Database), MS-Excel 
+
+
+
 use project;
 select * from project1;
 
