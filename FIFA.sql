@@ -1,3 +1,9 @@
+Analysis on FIFA World cup 2022 for the football matches held in Qatar containing      
+information about matches, penalty, teams, goals, wins, loss, assists, possession, 
+red cards, yellow cards, passes etc using MYSQL.
+
+Tools: MYSQL, Dbeaver (Database), MS-Excel 
+
 use fifa;
 select * from fifa_1 ;
 select * from fifa_2;
