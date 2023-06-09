@@ -1,3 +1,9 @@
+Analysis on AIR BNB NEWYORK data with over 40000 rows and 14 columns with the data
+containing information about hosts, geographical availability, location, price,
+area, latitude, longitude, room type etc using MYSQL.
+
+Tools: MYSQL, Dbeaver (Database), MS-Excel 
+
 use project;
 select * from nyc_1;
 select * from nyc_2;
